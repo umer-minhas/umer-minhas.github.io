@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Medical Billing Services</title>
+  <title>ShieldCare Medical Billing</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -18,6 +18,14 @@
       color: #fff;
       padding: 20px 0;
       text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      margin: 5px 0 0;
+      font-size: 1.2rem;
     }
     nav {
       background: #333;
@@ -48,8 +56,9 @@
 </head>
 <body>
   <header>
-    <h1>Welcome to Our Medical Billing Services</h1>
+    <h1>ShieldCare Medical Billing</h1>
     <p>Your Trusted Partner in Medical Billing Solutions</p>
+    <p><strong>Managed by: [Your Name]</strong></p> <!-- Replace [Your Name] with your actual name -->
   </header>
   <nav>
     <a href="#about">About Us</a>
@@ -59,7 +68,7 @@
   <div class="container">
     <section id="about">
       <h2>About Us</h2>
-      <p>We specialize in providing efficient and accurate medical billing services to healthcare providers. Our team ensures that your billing processes are streamlined, allowing you to focus on patient care.</p>
+      <p>At ShieldCare Medical Billing, we specialize in providing efficient and accurate medical billing services to healthcare providers. Our team ensures that your billing processes are streamlined, allowing you to focus on patient care.</p>
     </section>
     <section id="services">
       <h2>Our Services</h2>
@@ -72,12 +81,12 @@
     </section>
     <section id="contact">
       <h2>Contact Us</h2>
-      <p>Email: info@medicalbilling.com</p>
+      <p>Email: info@shieldcarebilling.com</p>
       <p>Phone: (123) 456-7890</p>
     </section>
   </div>
   <footer>
-    <p>&copy; 2025 Medical Billing Services. All rights reserved.</p>
+    <p>&copy; 2025 ShieldCare Medical Billing. All rights reserved.</p>
   </footer>
 </body>
 </html>
